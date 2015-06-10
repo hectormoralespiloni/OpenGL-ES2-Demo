@@ -11,4 +11,4 @@ Shadow Mapping was work in progress but I leave it unfinished since I made a por
 Requirements:
 * Visual Studio 2012+
 * Mali SDK (http://malideveloper.arm.com/develop-for-mali/sdks/opengl-es-sdk-for-linux). When you click the download link, you will se Windows versions available as well.
-* In order to run the EXE you need to copy the .dlls to the executable folder "AND MALI_EMULATOR_COMPILER_MANAGER_PATH" environment variable (set when Mali SDK is installed).
+* In order to run the EXE you need to copy the .dlls to the executable folder and _"MALI_EMULATOR_COMPILER_MANAGER_PATH"_ environment variable (set when Mali SDK is installed).
