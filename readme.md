@@ -7,7 +7,7 @@ This demo uses MaliSDK to setup OGL ES, it uses basic Gouraud & Phong shaders an
 
 Shadow Mapping was work in progress but I leave it unfinished since I made a porting to Android which has already the shadow mapping part implemented.
 
-![](https://github.com/hectormoralespiloni/OpenGLES2Demo/blob/master/openglES2Demo.png)
+![](https://github.com/hectormoralespiloni/OpenGL-ES2-Demo/blob/master/openglES2Demo.png)
 
 REQUIREMENTS
 	* Visual Studio 2012+
